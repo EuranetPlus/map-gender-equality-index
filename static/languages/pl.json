@@ -1,6 +1,6 @@
 {
   "heading": "Jak równi są kobiety i mężczyźni w UE?",
-  "subheading": "Wzrost ogólnego wyniku UE w 2023 r. o 1,6 punktu oznacza największy wzrost rok do roku od pierwszej edycji indeksu w 2013 r. (wtedy wynik wyniósł 63,1).",
+  "subheading": "Wzrost ogólnego wyniku UE w 2023 r. o 1,6 punktu oznacza największy wzrost rok do roku od pierwszej edycji indeksu w 2013 r. (kiedy wynik wyniósł 63,1).",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Wskaźnik równości płci",
   "textSourceDescription": "Źródło",
@@ -9,23 +9,5 @@
   "textNote": "Dane dla Indeksu 2023 pochodzą głównie z lat 2021 i 2022. Indeks Równości Płci przyznaje UE i państwom członkowskim punkty w skali od 1 do 100. Wynik 100 oznaczałby, że kraj osiągnął pełną równość kobiet i mężczyzn.",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
-  "extraInfoText_BE": "Ponieważ potrzeba jednomyślności powoduje biurokratyczne wąskie gardło w wielu obszarach, istnieje pewna logika w przechodzeniu na głosowanie większością kwalifikowaną, gdzie to możliwe. W praktyce większość kwalifikowana ma miejsce, gdy 15 z 27 państw członkowskich głosuje za czymś, o ile razem reprezentują one ponad 65 procent 450 milionów obywateli UE.",
-  "extraInfoLink_BE": "Przeczytaj więcej",
-  "extraInfoText_DE": "Prawdopodobnie nie jest przypadkiem, że zaledwie dwa dni później Komisja Europejska ogłosiła, że w końcu uruchomi mechanizm warunkowości, który łączy wypłatę środków UE z poszanowaniem praworządności. Budapeszt spotyka się z krytyką za ograniczenia wolności mediów, konflikty interesów i korupcję.",
-  "extraInfoLink_DE": "Przeczytaj więcej",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "W tym kontekście rząd Bułgarii powołał nową jednostkę monitorującą media. Nowa jednostka ma monitorować wszystkie formy mediów pod kątem ukierunkowanej dezinformacji, ale – w przeciwieństwie do niezależnej Rady Mediów Elektronicznych – nie ma uprawnień do regulowania lub nakładania sankcji. I nie powinna, podkreśla Bozhanov w wywiadzie dla Bułgarskiego Radia Narodowego.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, sekretarz stanu w słoweńskim ministerstwie spraw zagranicznych i członek komitetu konferencyjnego, mówi, że Słowenia z pewnością nie stroni od odważnych decyzji ani nie odrzuca możliwości przejścia do kwalifikowanej większości. Uważa jednak, że nadal istnieje miejsce na podejmowanie decyzji w drodze konsensusu.",
-  "extraInfoLink_IT": "Więcej informacji",
-  "extraInfoText_LU": "Jednakże luksemburski eurodeputowany Marc Angel jest przekonany, że zmiany traktatowe są absolutnie konieczne – nie tylko po to, aby uczynić procedury decyzyjne mniej uciążliwymi, ale także po to, aby poszerzyć zakres kompetencji UE. Twierdzi on w wywiadzie dla luksemburskiego nadawcy krajowego 100,7, że obywatele UE wyraźnie o to prosili w trakcie procesu konferencyjnego.",
-  "extraInfoLink_LU": "Przeczytaj więcej",
-  "extraInfoText_PL": "Liutauras Gudzinskas, profesor nauk politycznych na Uniwersytecie Wileńskim, mówi Žinių Radijas, że chociaż propozycja Komisji Europejskiej mająca na celu wzmocnienie pluralizmu i niezależności mediów oraz ochronę przed ingerencją polityczną lub biznesową mogłaby być przydatnym narzędziem zapobiegawczym w wielu krajach, to na Węgrzech jest prawdopodobnie za późno.",
-  "extraInfoLink_PL": "Więcej informacji",
-  "extraInfoText_RO": "Mimo że Światowy Dzień Wolności Prasy przypada 3 maja, Litwa co roku świętuje wolność prasy 7 maja – data ta oznacza bowiem koniec carskiego zakazu publikacji i dystrybucji książek w języku litewskim.",
-  "extraInfoLink_RO": "Sprawdź to",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }
