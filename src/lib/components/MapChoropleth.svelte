@@ -94,7 +94,7 @@
 	}
 
 	$: if (config.colourScheme == 'blue') {
-		colorScheme = schemeBlues[5];
+		colorScheme = schemeBlues[7];
 	} else if (config.colourScheme == 'purple-blue') {
 		// colorScheme = schemePuBu[5];
 		colorScheme = PuBlueDarker;
