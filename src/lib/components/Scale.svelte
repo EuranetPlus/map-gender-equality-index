@@ -46,7 +46,7 @@
 
 <style lang="scss">
 	.swatch {
-		width: 11vw;
+		width: 15vw;
 		height: 1.2vh;
 	}
 
