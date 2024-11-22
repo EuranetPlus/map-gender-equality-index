@@ -13,7 +13,7 @@
 	clusters.unshift(0);
 
 	function displayDigit(index, number) {
-		if (index == 0 || index == 6) {
+		if (index == 0 || index == 4) {
 			if (config.datasetUnit == 'percent') {
 				return formatInt(number * 100);
 			} else if (config.datasetUnit == 'fullNumbers') {
@@ -28,7 +28,7 @@
 <div
 	class="scale text-sm absolute top-3 rounded bg-white p-3 border"
 	bind:clientWidth={width}
-	style={left: calc(50% - ${width / 2}px);}
+	style={`left: calc(50% - ${width / 2}px);`}
 >
 	<div class="flex justify-center">
 		{#each classes as swatch}
