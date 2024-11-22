@@ -19,7 +19,7 @@
 	import { min, max } from 'd3-array';
 
 	import { scaleQuantile, scaleSequential, scaleSequentialQuantile } from 'd3-scale';
-	import { schemeBlues, schemePuBu, schemeGnBu, schemeOrRd, schemeYlGn } from 'd3-scale-chromatic';
+	import { schemeBlues, schemePurples, schemeGnBu, schemeOrRd, schemeYlGn } from 'd3-scale-chromatic';
 	import { PuBlueDarker } from '$lib/utils/customColorPalettes';
 
 	import { formatInt } from '$lib/utils/formatNumbers';
