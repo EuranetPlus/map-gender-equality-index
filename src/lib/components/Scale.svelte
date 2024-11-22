@@ -28,7 +28,7 @@
 <div
 	class="scale text-sm absolute top-3 rounded bg-white p-3 border"
 	bind:clientWidth={width}
-	style={`left: calc(50% - ${width / 2}px);`}
+	style={`left: calc(50% - ${width / 2}px); max-width: 90%;`} <!-- Skala auf 90% der Breite begrenzt -->
 >
 	<div class="flex justify-center">
 		{#each classes as swatch}
@@ -45,8 +45,12 @@
 </div>
 
 <style lang="scss">
+	.scale {
+		max-width: 90%; /* Begrenze die Skala auf maximal 90% der Darstellungsbreite */
+	}
+
 	.swatch {
-		width: 15vw;
+		width: calc(100% / 8); /* Passe die Breite der Elemente an die Anzahl der Cluster an */
 		height: 1.2vh;
 	}
 
