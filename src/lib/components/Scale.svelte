@@ -13,7 +13,7 @@
 	clusters.unshift(0);
 
 	function displayDigit(index, number) {
-		if (index == 0 || index == 4) {
+		if (index == 0 || index == 6) {
 			if (config.datasetUnit == 'percent') {
 				return formatInt(number * 100);
 			} else if (config.datasetUnit == 'fullNumbers') {
