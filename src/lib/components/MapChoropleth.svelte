@@ -94,10 +94,10 @@
 	}
 
 	$: if (config.colourScheme == 'blue') {
-		colorScheme = schemeBlues[7];
+		colorScheme = schemeBlues[5];
 	} else if (config.colourScheme == 'purple-blue') {
-		// colorScheme = schemePuBu[7];
-		colorScheme = PuBlueDarker;
+		colorScheme = schemePurples[5];
+		//colorScheme = PuBlueDarker;
 	} else if (config.colourScheme == 'green-blue') {
 		colorScheme = schemeGnBu[5];
 	} else if (config.colourScheme == 'orange-red') {
