@@ -1,12 +1,12 @@
 {
-  "heading": "Nakolik jsou si ženy a muži v EU rovni?",
+  "heading": "Jak rovnoprávní jsou si ženy a muži v EU?",
   "subheading": "V roce 2023 je nárůst celkového skóre EU o 1,6 bodu největším meziročním nárůstem od prvního vydání indexu v roce 2013 (kdy činil 63,1).",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "Index rovnosti pohlaví",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltip1": "Index rovnosti žen a mužů",
   "textSourceDescription": "Zdroj",
-  "textSource": "Evropský institut pro rovnost pohlaví",
+  "textSource": "Evropský institut pro rovnost žen a mužů",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje pro index 2023 pocházejí většinou z let 2021 a 2022. Index genderové rovnosti dává EU a členským státům skóre od 1 do 100. Skóre 100 by znamenalo, že země dosáhla plné rovnosti mezi ženami a muži.",
+  "textNote": "Data pro index z roku 2023 pocházejí převážně z let 2021 a 2022. Index rovnosti žen a mužů uděluje EU a členským státům skóre od 1 do 100. Skóre 100 by znamenalo, že země dosáhla plné rovnosti mezi ženami a muži.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
   "textCountryClick": "Klikněte pro více informací"

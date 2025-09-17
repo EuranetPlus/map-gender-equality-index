@@ -1,13 +1,13 @@
 {
   "heading": "Mennyire egyenlőek a nők és a férfiak az EU-ban?",
-  "subheading": "2023-ban az EU összpontszámának 1,6 pontos növekedése a legnagyobb éves emelkedés az index 2013-as első kiadása óta (amikor 63,1 volt).",
-  "legend1": "Nincs adat",
-  "tooltip1": "Nemek közötti egyenlőségi index",
+  "subheading": "2023-ban az EU összesített pontszámának 1,6 pontos növekedése a legnagyobb éves növekedés az index 2013-as első kiadása óta (amikor az index 63,1 ponton állt).",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "Nemek közötti egyenlőség indexe",
   "textSourceDescription": "Forrás",
-  "textSource": "A Nemek Közötti Egyenlőség Európai Intézete",
+  "textSource": "Európai Nemek Közötti Egyenlőségi Intézet",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A 2023-as index adatai többnyire 2021-ből és 2022-ből származnak. A nemek közötti egyenlőségi index 1-től 100-ig terjedő pontszámot ad az EU-nak és a tagállamoknak. A 100-as pontszám azt jelentené, hogy egy ország elérte a nők és férfiak közötti teljes egyenlőséget.",
+  "textNote": "A 2023-as index adatai többnyire 2021-ből és 2022-ből származnak. A nemek közötti egyenlőség indexe 1-től 100-ig terjedő skálán értékeli az EU-t és a tagállamokat. A 100-as pontszám azt jelentené, hogy egy ország elérte a nők és férfiak közötti teljes egyenlőséget.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

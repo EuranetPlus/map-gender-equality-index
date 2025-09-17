@@ -1,13 +1,13 @@
 {
-  "heading": "Cik vienlīdzīgas ir sievietes un vīrieši ES?",
-  "subheading": "2023. gadā ES kopējā rezultāta pieaugums par 1,6 punktiem ir lielākais pieaugums salīdzinājumā ar iepriekšējo gadu kopš indeksa pirmā izdevuma 2013. gadā (kad tas bija 63,1).",
-  "legend1": "Nav pieejami dati",
+  "heading": "Cik vienlīdzīgi ir vīrieši un sievietes ES?",
+  "subheading": "2023. gadā ES kopējā vērtējuma pieaugums par 1,6 punktiem ir lielākais pieaugums salīdzinājumā ar iepriekšējo gadu kopš indeksa pirmās versijas 2013. gadā (kad tas bija 63,1).",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "Dzimumu līdztiesības indekss",
   "textSourceDescription": "Avots",
   "textSource": "Eiropas Dzimumu līdztiesības institūts",
   "textNoteDescription": "Piezīme",
-  "textNote": "2023. gada indeksa dati lielākoties ir no 2021. gada un 2022. gada. Dzimumu līdztiesības indekss sniedz ES un dalībvalstu vērtējumu no 1 līdz 100. Ja rādītājs ir 100, tas nozīmētu, ka valsts ir sasniegusi pilnīgu sieviešu un vīriešu līdztiesību.",
+  "textNote": "2023. gada indeksa dati lielākoties ir no 2021. un 2022. gada. Dzimumu līdztiesības indekss piešķir ES un dalībvalstīm vērtējumu no 1 līdz 100. Vērtējums 100 nozīmētu, ka valsts ir sasniegusi pilnīgu sieviešu un vīriešu līdztiesību.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

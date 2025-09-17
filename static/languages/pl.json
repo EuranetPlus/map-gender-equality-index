@@ -1,13 +1,13 @@
 {
   "heading": "Jak równi są kobiety i mężczyźni w UE?",
-  "subheading": "Wzrost ogólnego wyniku UE w 2023 r. o 1,6 punktu oznacza największy wzrost rok do roku od pierwszej edycji indeksu w 2013 r. (kiedy wynik wyniósł 63,1).",
+  "subheading": "Wzrost ogólnego wyniku UE w 2023 r. o 1,6 punktu jest największym wzrostem rok do roku od pierwszej edycji indeksu z 2013 r. (wówczas wynik wyniósł 63,1).",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Wskaźnik równości płci",
   "textSourceDescription": "Źródło",
   "textSource": "Europejski Instytut ds. Równości Płci",
   "textNoteDescription": "Notatka",
-  "textNote": "Dane dla Indeksu 2023 pochodzą głównie z lat 2021 i 2022. Indeks Równości Płci przyznaje UE i państwom członkowskim punkty w skali od 1 do 100. Wynik 100 oznaczałby, że kraj osiągnął pełną równość kobiet i mężczyzn.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "textNote": "Dane dla Indeksu 2023 pochodzą głównie z lat 2021 i 2022. Indeks Równości Płci przyznaje UE i państwom członkowskim punkty w skali od 1 do 100. Punktacja 100 oznacza, że dany kraj osiągnął pełną równość kobiet i mężczyzn.",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://eige.europa.eu/indeks-równości-płci/2023",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

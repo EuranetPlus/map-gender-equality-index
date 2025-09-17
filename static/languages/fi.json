@@ -1,13 +1,13 @@
 {
   "heading": "Kuinka tasa-arvoisia naiset ja miehet ovat EU:ssa?",
-  "subheading": "Vuonna 2023 EU:n kokonaispistemäärän 1,6 pisteen nousu on suurin vuositasolla sitten indeksin ensimmäisen painoksen vuonna 2013 (jolloin se oli 63,1).",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "Tasa-arvoindeksi",
+  "subheading": "Vuonna 2023 EU:n kokonaispistemäärän 1,6 pisteen nousu on suurin vuosittainen nousu sitten indeksin ensimmäisen painoksen vuonna 2013 (jolloin se oli 63,1).",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "Sukupuolten tasa-arvoindeksi",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan tasa-arvoinstituutti",
-  "textNoteDescription": "Huom",
-  "textNote": "Vuoden 2023 indeksin tiedot ovat pääosin vuosilta 2021 ja 2022. Tasa-arvoindeksi antaa EU:lle ja jäsenvaltioille pisteet 1–100. 100 pistemäärä tarkoittaisi, että maa on saavuttanut täyden tasa-arvon naisten ja miesten välillä.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Vuoden 2023 indeksin tiedot ovat pääosin vuosilta 2021 ja 2022. Sukupuolten tasa-arvoindeksi antaa EU:lle ja jäsenvaltioille pistemäärän 1–100. Pistemäärä 100 tarkoittaisi, että maa olisi saavuttanut täyden tasa-arvon naisten ja miesten välillä.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

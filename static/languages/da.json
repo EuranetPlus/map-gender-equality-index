@@ -1,13 +1,13 @@
 {
   "heading": "Hvor lige er kvinder og mænd i EU?",
-  "subheading": "I 2023 er stigningen på 1,6 point i EU's samlede score den største år-til-år-stigning siden den første udgave af indekset i 2013 (hvor den lå på 63,1).",
-  "legend1": "Ingen tilgængelige data",
-  "tooltip1": "Ligestillingsindeks",
+  "subheading": "I 2023 er stigningen på 1,6 point i EU's samlede score den største stigning fra år til år siden den første udgave af indekset i 2013 (hvor det lå på 63,1).",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "Indeks for ligestilling mellem kønnene",
   "textSourceDescription": "Kilde",
-  "textSource": "Det Europæiske Institut for Ligestilling",
+  "textSource": "Det Europæiske Institut for Ligestilling mellem Kønnene",
   "textNoteDescription": "Note",
-  "textNote": "Dataene for 2023-indekset er for det meste fra 2021 og 2022. Ligestillingsindekset giver EU og medlemslandene en score fra 1 til 100. En score på 100 ville betyde, at et land havde opnået fuld ligestilling mellem kvinder og mænd.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "Dataene for 2023-indekset stammer hovedsageligt fra 2021 og 2022. Ligestillingsindekset giver EU og medlemsstaterne en score fra 1 til 100. En score på 100 ville betyde, at et land har opnået fuld ligestilling mellem kvinder og mænd.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Kako enakopravni so ženske in moški v EU?",
-  "subheading": "Leta 2023 je povečanje skupne ocene EU za 1,6 točke največje medletno povečanje od prve izdaje indeksa leta 2013 (ko je znašal 63,1).",
-  "legend1": "Ni podatkov",
+  "subheading": "Leta 2023 je 1,6-odstotno povečanje skupne ocene EU največje medletno povečanje od prve izdaje indeksa leta 2013 (ko je znašala 63,1).",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "Indeks enakosti spolov",
   "textSourceDescription": "Vir",
   "textSource": "Evropski inštitut za enakost spolov",
   "textNoteDescription": "Opomba",
   "textNote": "Podatki za indeks 2023 so večinoma iz let 2021 in 2022. Indeks enakosti spolov daje EU in državam članicam oceno od 1 do 100. Ocena 100 bi pomenila, da je država dosegla popolno enakost med ženskami in moškimi.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
   "textCountryClick": "Kliknite za več informacij"
 }

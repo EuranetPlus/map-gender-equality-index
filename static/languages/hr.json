@@ -1,13 +1,13 @@
 {
   "heading": "Koliko su žene i muškarci ravnopravni u EU?",
-  "subheading": "U 2023. godini povećanje od 1,6 bodova u ukupnoj ocjeni EU-a najveće je međugodišnje povećanje od prvog izdanja indeksa 2013. (kada je iznosio 63,1).",
+  "subheading": "U 2023. godini, povećanje ukupnog rezultata EU od 1,6 bodova najveće je međugodišnje povećanje od prvog izdanja indeksa 2013. (kada je iznosio 63,1).",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "Indeks ravnopravnosti spolova",
+  "tooltip1": "Indeks rodne ravnopravnosti",
   "textSourceDescription": "Izvor",
   "textSource": "Europski institut za ravnopravnost spolova",
   "textNoteDescription": "Bilješka",
-  "textNote": "Podaci za Indeks 2023. uglavnom su iz 2021. i 2022. Indeks ravnopravnosti spolova daje EU i državama članicama ocjenu od 1 do 100. Ocjena 100 značila bi da je zemlja postigla punu ravnopravnost između žena i muškaraca.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Podaci za indeks iz 2023. uglavnom su iz 2021. i 2022. godine. Indeks rodne ravnopravnosti daje EU-u i državama članicama ocjenu od 1 do 100. Rezultat od 100 značio bi da je zemlja postigla potpunu ravnopravnost žena i muškaraca.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
   "textCountryClick": "Kliknite za više informacija"
 }

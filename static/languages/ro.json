@@ -1,13 +1,13 @@
 {
-  "heading": "Cât de egali sunt femeile și bărbații în UE?",
-  "subheading": "În 2023, creșterea cu 1,6 puncte a scorului general al UE este cea mai mare creștere de la an la an de la prima ediție a indicelui din 2013 (când a fost de 63,1).",
-  "legend1": "Nu există date disponibile",
+  "heading": "Cât de egale sunt femeile și bărbații în UE?",
+  "subheading": "În 2023, creșterea cu 1,6 puncte a scorului general al UE este cea mai mare creștere de la an la an de la prima ediție a indicelui din 2013 (când acesta se situa la 63,1).",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "Indicele egalității de gen",
   "textSourceDescription": "Sursă",
   "textSource": "Institutul European pentru Egalitatea de Gen",
   "textNoteDescription": "Nota",
-  "textNote": "Datele pentru 2023 Index sunt în mare parte din 2021 și 2022. Indicele egalității de gen oferă UE și statelor membre un scor de la 1 la 100. Un scor de 100 ar însemna că o țară a atins egalitatea deplină între femei și bărbați.",
+  "textNote": "Datele pentru Indicele din 2023 provin în mare parte din 2021 și 2022. Indicele egalității de gen acordă UE și statelor membre un scor de la 1 la 100. Un scor de 100 ar însemna că o țară a atins egalitatea deplină între femei și bărbați.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

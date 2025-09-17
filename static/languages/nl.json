@@ -2,12 +2,12 @@
   "heading": "Hoe gelijk zijn vrouwen en mannen in de EU?",
   "subheading": "In 2023 is de stijging van 1,6 punten in de totale score van de EU de grootste stijging op jaarbasis sinds de eerste editie van de index in 2013 (toen deze op 63,1 stond).",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "Index voor gendergelijkheid",
+  "tooltip1": "Gendergelijkheidsindex",
   "textSourceDescription": "Bron",
   "textSource": "Europees Instituut voor Gendergelijkheid",
   "textNoteDescription": "Opmerking",
-  "textNote": "De gegevens voor de index van 2023 zijn grotendeels afkomstig uit 2021 en 2022. De Gender Equality Index geeft de EU en de lidstaten een score van 1 tot 100. Een score van 100 betekent dat een land volledige gelijkheid tussen vrouwen en mannen heeft bereikt.",
+  "textNote": "De gegevens voor de index van 2023 zijn grotendeels afkomstig uit 2021 en 2022. De Gender Equality Index kent de EU en de lidstaten een score toe van 1 tot 100. Een score van 100 betekent dat een land volledige gelijkheid tussen vrouwen en mannen heeft bereikt.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

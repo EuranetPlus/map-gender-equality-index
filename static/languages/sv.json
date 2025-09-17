@@ -1,13 +1,13 @@
 {
   "heading": "Hur jämställda är kvinnor och män i EU?",
-  "subheading": "År 2023 är ökningen med 1,6 poäng i EU:s totala poäng den största ökningen från år till år sedan den första upplagan av indexet 2013 (då den låg på 63,1).",
+  "subheading": "År 2023 är ökningen med 1,6 poäng i EU:s totala poäng den största ökningen jämfört med föregående år sedan den första upplagan av indexet 2013 (då det låg på 63,1).",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "Jämställdhetsindex",
   "textSourceDescription": "Källa",
   "textSource": "Europeiska institutet för jämställdhet",
   "textNoteDescription": "Notera",
-  "textNote": "Uppgifterna för 2023-indexet är mestadels från 2021 och 2022. Jämställdhetsindexet ger EU och medlemsstaterna en poäng från 1 till 100. En poäng på 100 skulle innebära att ett land hade uppnått full jämställdhet mellan kvinnor och män.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Uppgifterna för 2023 års index är mestadels från 2021 och 2022. Jämställdhetsindexet ger EU och medlemsstaterna en poäng från 1 till 100. En poäng på 100 skulle innebära att ett land har uppnått full jämställdhet mellan kvinnor och män.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

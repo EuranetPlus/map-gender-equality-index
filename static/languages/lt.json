@@ -1,13 +1,13 @@
 {
-  "heading": "Kokios lygios moterys ir vyrai ES?",
-  "subheading": "2023 m. 1,6 punkto bendras ES balo padidėjimas yra didžiausias metinis padidėjimas nuo pirmojo indekso leidimo 2013 m. (kai jis siekė 63,1).",
+  "heading": "Kiek lygios moterys ir vyrai yra ES?",
+  "subheading": "2023 m. 1,6 balo padidėjimas bendrame ES bale yra didžiausias metinis padidėjimas nuo pirmojo indekso leidimo 2013 m. (kai jis siekė 63,1).",
   "legend1": "Nėra duomenų",
   "tooltip1": "Lyčių lygybės indeksas",
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos lyčių lygybės institutas",
   "textNoteDescription": "Pastaba",
-  "textNote": "2023 m. indekso duomenys dažniausiai yra 2021 ir 2022 m. Lyčių lygybės indeksas suteikia ES ir valstybių narių balus nuo 1 iki 100. 100 balų reikštų, kad šalis pasiekė visišką moterų ir vyrų lygybę.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "2023 m. indekso duomenys daugiausia yra iš 2021 ir 2022 m. Lyčių lygybės indeksas ES ir valstybėms narėms suteikia balų nuo 1 iki 100. 100 balų reikštų, kad šalis pasiekė visišką moterų ir vyrų lygybę.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

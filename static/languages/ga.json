@@ -1,13 +1,13 @@
 {
   "heading": "Cé chomh comhionann is atá mná agus fir san AE?",
-  "subheading": "In 2023, is é an méadú 1.6 pointe ar scór foriomlán an AE an méadú bliain ar bhliain is mó ón gcéad eagrán den innéacs in 2013 (nuair a bhí sé ag 63.1).",
+  "subheading": "In 2023, is é an méadú 1.6 phointe ar scór foriomlán an AE an méadú bliain ar bhliain is mó ó foilsíodh an chéad eagrán den innéacs in 2013 (nuair a bhí sé ag 63.1).",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "Innéacs Comhionannas Inscne",
+  "tooltip1": "Innéacs Comhionannais Inscne",
   "textSourceDescription": "Foinse",
   "textSource": "An Institiúid Eorpach um Chomhionannas Inscne",
   "textNoteDescription": "Nóta",
-  "textNote": "Tagann na sonraí le haghaidh Innéacs 2023 ó 2021 agus 2022 den chuid is mó. Tugann an tInnéacs um Chomhionannas Inscne scór ó 1 go 100 don AE agus do na Ballstáit. Chiallódh scór 100 go raibh comhionannas iomlán bainte amach ag tír idir mná agus fir.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Is ó 2021 agus 2022 den chuid is mó atá sonraí Innéacs 2023. Tugann Innéacs Comhionannais Inscne scór ó 1 go 100 don AE agus do na Ballstáit. Chiallódh scór 100 go raibh comhionannas iomlán bainte amach ag tír idir mná agus fir.",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

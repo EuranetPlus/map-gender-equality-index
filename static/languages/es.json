@@ -1,12 +1,12 @@
 {
-  "heading": "¿En qué medida son iguales las mujeres y los hombres en la UE?",
+  "heading": "¿Qué grado de igualdad hay entre mujeres y hombres en la UE?",
   "subheading": "En 2023, el aumento de 1,6 puntos en la puntuación general de la UE es el mayor aumento interanual desde la primera edición del índice en 2013 (cuando se situó en 63,1).",
   "legend1": "No hay datos disponibles",
   "tooltip1": "Índice de igualdad de género",
   "textSourceDescription": "Fuente",
-  "textSource": "Instituto Europeo de Igualdad de Género",
+  "textSource": "Instituto Europeo para la Igualdad de Género",
   "textNoteDescription": "Nota",
-  "textNote": "Los datos del índice de 2023 proceden en su mayoría de 2021 y 2022. El índice de igualdad de género otorga a la UE y a los Estados miembros una puntuación de 1 a 100. Una puntuación de 100 significaría que un país ha alcanzado la plena igualdad entre mujeres y hombres.",
+  "textNote": "Los datos del Índice de 2023 proceden principalmente de 2021 y 2022. El Índice de Igualdad de Género otorga a la UE y a los Estados miembros una puntuación de 1 a 100. Una puntuación de 100 significaría que un país ha alcanzado la plena igualdad entre mujeres y hombres.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
   "textCountryClick": "Haga clic para más información"

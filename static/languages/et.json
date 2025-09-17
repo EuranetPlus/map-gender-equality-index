@@ -1,12 +1,12 @@
 {
   "heading": "Kui võrdsed on naised ja mehed ELis?",
-  "subheading": "2023. aastal on ELi üldskoori 1,6-punktine kasv suurim aasta-aastalt alates indeksi esmakordsest väljaandest 2013. aastal (kui see oli 63,1).",
-  "legend1": "Andmed puuduvad",
+  "subheading": "2023. aastal on ELi üldskoori 1,6-punktine tõus suurim aastane tõus alates indeksi esimesest väljaandest 2013. aastal (mil see oli 63,1).",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "Soolise võrdõiguslikkuse indeks",
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Soolise Võrdõiguslikkuse Instituut",
   "textNoteDescription": "Märkus",
-  "textNote": "2023. aasta indeksi andmed pärinevad enamasti 2021. ja 2022. aastast. Soolise võrdõiguslikkuse indeks annab ELile ja liikmesriikidele hinded 1–100. Skoor 100 tähendaks, et riik on saavutanud täieliku naiste ja meeste võrdõiguslikkuse.",
+  "textNote": "2023. aasta indeksi andmed pärinevad peamiselt aastatest 2021 ja 2022. Soolise võrdõiguslikkuse indeks annab ELile ja liikmesriikidele hinde skaalal 1 kuni 100. Skoor 100 tähendaks, et riik on saavutanud naiste ja meeste täieliku võrdõiguslikkuse.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
