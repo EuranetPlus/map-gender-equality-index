@@ -1,13 +1,13 @@
 {
   "heading": "Hvor lige er kvinder og mænd i EU?",
-  "subheading": "I 2023 er stigningen på 1,6 point i EU's samlede score den største stigning fra år til år siden den første udgave af indekset i 2013 (hvor det lå på 63,1).",
+  "subheading": "EU's ligestillingsindeks for 2025 ligger på 63,4 ud af 100, hvilket afspejler ujævne fremskridt blandt medlemslandene. I løbet af de seneste fem år har Malta (+8,6), Irland (+7,8) og Litauen (+6,9) gjort de største fremskridt, mens EU som helhed har set en stigning på +3,5 point i indekset. I modsætning hertil har lande som Bulgarien (-0,7), Kroatien (+0,3), Letland (+0,4) og Ungarn (+0,5) gjort få eller ingen fremskridt.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "Indeks for ligestilling mellem kønnene",
   "textSourceDescription": "Kilde",
   "textSource": "Det Europæiske Institut for Ligestilling mellem Kønnene",
   "textNoteDescription": "Note",
-  "textNote": "Dataene for 2023-indekset stammer hovedsageligt fra 2021 og 2022. Ligestillingsindekset giver EU og medlemsstaterne en score fra 1 til 100. En score på 100 ville betyde, at et land har opnået fuld ligestilling mellem kvinder og mænd.",
+  "textNote": "Ligestillingsindekset er et værktøj til at måle fremskridtene inden for ligestilling mellem kønnene i EU. Det undersøger, hvordan elementer som handicap, alder, uddannelsesniveau, fødeland og familietype kan interagere med køn.",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Klik for mere information"
 }

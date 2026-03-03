@@ -1,13 +1,13 @@
 {
-  "heading": "Dans quelle mesure les femmes et les hommes sont-ils égaux dans l’UE ?",
-  "subheading": "En 2023, l'augmentation de 1,6 point du score global de l'UE constitue la plus forte hausse annuelle depuis la première édition de l'indice en 2013 (où il s'élevait à 63,1).",
+  "heading": "Dans quelle mesure les femmes et les hommes sont-ils égaux au sein de l'UE ?",
+  "subheading": "L'indice d'égalité entre les femmes et les hommes de l'UE pour 2025 s'établit à 63,4 sur 100, reflétant des progrès inégaux entre les États membres. Au cours des cinq dernières années, Malte (+8,6), l'Irlande (+7,8) et la Lituanie (+6,9) ont enregistré les progrès les plus significatifs, tandis que l'UE dans son ensemble a progressé de 3,5 points. À l'inverse, des pays comme la Bulgarie (-0,7), la Croatie (+0,3), la Lettonie (+0,4) et la Hongrie (+0,5) n'ont guère progressé, voire pas du tout.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "Indice d'égalité des sexes",
   "textSourceDescription": "Source",
-  "textSource": "Institut européen pour l'égalité entre les hommes et les femmes",
+  "textSource": "Institut européen pour l'égalité des genres",
   "textNoteDescription": "Note",
-  "textNote": "Les données de l'indice 2023 proviennent principalement des années 2021 et 2022. L'indice d'égalité des sexes attribue à l'UE et aux États membres un score de 1 à 100. Un score de 100 signifie qu'un pays a atteint la pleine égalité entre les femmes et les hommes.",
+  "textNote": "L'indice d'égalité entre les sexes est un outil permettant de mesurer les progrès accomplis en matière d'égalité des sexes au sein de l'UE. Il examine comment des facteurs tels que le handicap, l'âge, le niveau d'éducation, le pays de naissance et le type de famille peuvent interagir avec le genre.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

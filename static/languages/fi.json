@@ -1,13 +1,13 @@
 {
   "heading": "Kuinka tasa-arvoisia naiset ja miehet ovat EU:ssa?",
-  "subheading": "Vuonna 2023 EU:n kokonaispistemäärän 1,6 pisteen nousu on suurin vuosittainen nousu sitten indeksin ensimmäisen painoksen vuonna 2013 (jolloin se oli 63,1).",
+  "subheading": "EU:n sukupuolten tasa-arvoindeksi vuodelle 2025 on 63,4/100, mikä heijastaa epätasaista edistystä jäsenvaltioiden välillä. Viimeisten viiden vuoden aikana Malta (+8,6), Irlanti (+7,8) ja Liettua (+6,9) ovat edistyneet merkittävimmin, kun taas EU:ssa kokonaisuudessaan indeksi on noussut +3,5 pistettä. Sitä vastoin esimerkiksi Bulgaria (-0,7), Kroatia (+0,3), Latvia (+0,4) ja Unkari (+0,5) ovat edistyneet vain vähän tai ei lainkaan.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "Sukupuolten tasa-arvoindeksi",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan tasa-arvoinstituutti",
   "textNoteDescription": "Huomautus",
-  "textNote": "Vuoden 2023 indeksin tiedot ovat pääosin vuosilta 2021 ja 2022. Sukupuolten tasa-arvoindeksi antaa EU:lle ja jäsenvaltioille pistemäärän 1–100. Pistemäärä 100 tarkoittaisi, että maa olisi saavuttanut täyden tasa-arvon naisten ja miesten välillä.",
+  "textNote": "Sukupuolten tasa-arvoindeksi on työkalu, jolla mitataan sukupuolten tasa-arvon edistymistä EU:ssa. Se tarkastelee, miten tekijät, kuten vammaisuus, ikä, koulutustaso, syntymämaa ja perhetyyppi, voivat olla yhteydessä sukupuoleen.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

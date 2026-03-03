@@ -1,13 +1,13 @@
 {
   "heading": "¿Qué grado de igualdad hay entre mujeres y hombres en la UE?",
-  "subheading": "En 2023, el aumento de 1,6 puntos en la puntuación general de la UE es el mayor aumento interanual desde la primera edición del índice en 2013 (cuando se situó en 63,1).",
+  "subheading": "El Índice de Igualdad de Género de la UE para 2025 se sitúa en 63,4 sobre 100, lo que refleja un progreso desigual entre los Estados miembros. En los últimos cinco años, Malta (+8,6), Irlanda (+7,8) y Lituania (+6,9) han logrado los avances más significativos, mientras que la UE en su conjunto ha experimentado un aumento de +3,5 puntos en el índice. En cambio, países como Bulgaria (-0,7), Croacia (+0,3), Letonia (+0,4) y Hungría (+0,5) han avanzado poco o nada.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "Índice de igualdad de género",
   "textSourceDescription": "Fuente",
   "textSource": "Instituto Europeo para la Igualdad de Género",
   "textNoteDescription": "Nota",
-  "textNote": "Los datos del Índice de 2023 proceden principalmente de 2021 y 2022. El Índice de Igualdad de Género otorga a la UE y a los Estados miembros una puntuación de 1 a 100. Una puntuación de 100 significaría que un país ha alcanzado la plena igualdad entre mujeres y hombres.",
+  "textNote": "El Índice de Igualdad de Género es una herramienta para medir el progreso de la igualdad de género en la UE. Examina cómo elementos como la discapacidad, la edad, el nivel educativo, el país de nacimiento y el tipo de familia pueden interrelacionarse con el género.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Haga clic para más información"
 }

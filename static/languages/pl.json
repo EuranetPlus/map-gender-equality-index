@@ -1,13 +1,13 @@
 {
   "heading": "Jak równi są kobiety i mężczyźni w UE?",
-  "subheading": "Wzrost ogólnego wyniku UE w 2023 r. o 1,6 punktu jest największym wzrostem rok do roku od pierwszej edycji indeksu z 2013 r. (wówczas wynik wyniósł 63,1).",
+  "subheading": "Wskaźnik równości płci UE na rok 2025 wynosi 63,4 na 100, co odzwierciedla nierównomierny postęp między państwami członkowskimi. W ciągu ostatnich pięciu lat największy postęp poczyniły Malta (+8,6), Irlandia (+7,8) i Litwa (+6,9), podczas gdy cała UE odnotowała wzrost wskaźnika o +3,5 punktu. Z kolei kraje takie jak Bułgaria (-0,7), Chorwacja (+0,3), Łotwa (+0,4) i Węgry (+0,5) poczyniły niewielki lub żaden postęp.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Wskaźnik równości płci",
   "textSourceDescription": "Źródło",
   "textSource": "Europejski Instytut ds. Równości Płci",
   "textNoteDescription": "Notatka",
-  "textNote": "Dane dla Indeksu 2023 pochodzą głównie z lat 2021 i 2022. Indeks Równości Płci przyznaje UE i państwom członkowskim punkty w skali od 1 do 100. Punktacja 100 oznacza, że dany kraj osiągnął pełną równość kobiet i mężczyzn.",
+  "textNote": "Wskaźnik Równości Płci to narzędzie mierzące postępy w zakresie równości płci w UE. Bada on, w jaki sposób takie czynniki jak niepełnosprawność, wiek, poziom wykształcenia, kraj urodzenia i typ rodziny mogą się wiązać z płcią.",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://eige.europa.eu/indeks-równości-płci/2023",
+  "linkDataAccess": "https://eige.europa.eu/indeks-równości-płci/2025",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

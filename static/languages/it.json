@@ -1,13 +1,13 @@
 {
   "heading": "Quanto sono pari donne e uomini nell'UE?",
-  "subheading": "Nel 2023, l'aumento di 1,6 punti nel punteggio complessivo dell'UE rappresenta il maggiore incremento annuo dalla prima edizione dell'indice nel 2013 (quando si attestava a 63,1).",
+  "subheading": "L'indice di parità di genere dell'UE per il 2025 si attesta a 63,4 su 100, riflettendo progressi disomogenei tra gli Stati membri. Negli ultimi cinque anni, Malta (+8,6), Irlanda (+7,8) e Lituania (+6,9) hanno compiuto i progressi più significativi, mentre l'UE nel suo complesso ha registrato un aumento di +3,5 punti nell'indice. Al contrario, paesi come Bulgaria (-0,7), Croazia (+0,3), Lettonia (+0,4) e Ungheria (+0,5) hanno compiuto progressi scarsi o nulli.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "Indice di uguaglianza di genere",
   "textSourceDescription": "Fonte",
   "textSource": "Istituto europeo per l'uguaglianza di genere",
   "textNoteDescription": "Nota",
-  "textNote": "I dati per l'indice del 2023 provengono principalmente dal 2021 e dal 2022. L'indice sull'uguaglianza di genere assegna all'UE e agli Stati membri un punteggio da 1 a 100. Un punteggio di 100 significherebbe che un paese ha raggiunto la piena parità tra donne e uomini.",
+  "textNote": "L'Indice sull'Uguaglianza di Genere è uno strumento per misurare i progressi della parità di genere nell'UE. Esamina come elementi quali disabilità, età, livello di istruzione, paese di nascita e tipologia di famiglia possano intersecarsi con il genere.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

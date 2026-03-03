@@ -1,13 +1,13 @@
 {
   "heading": "Cât de egale sunt femeile și bărbații în UE?",
-  "subheading": "În 2023, creșterea cu 1,6 puncte a scorului general al UE este cea mai mare creștere de la an la an de la prima ediție a indicelui din 2013 (când acesta se situa la 63,1).",
+  "subheading": "Indicele egalității de gen al UE pentru 2025 este de 63,4 din 100, reflectând progrese inegale între statele membre. În ultimii cinci ani, Malta (+8,6), Irlanda (+7,8) și Lituania (+6,9) au înregistrat cele mai semnificative progrese, în timp ce UE în ansamblu a înregistrat o creștere de +3,5 puncte în acest indice. În schimb, țări precum Bulgaria (-0,7), Croația (+0,3), Letonia (+0,4) și Ungaria (+0,5) au înregistrat progrese mici sau inexistente.",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "Indicele egalității de gen",
   "textSourceDescription": "Sursă",
   "textSource": "Institutul European pentru Egalitatea de Gen",
   "textNoteDescription": "Nota",
-  "textNote": "Datele pentru Indicele din 2023 provin în mare parte din 2021 și 2022. Indicele egalității de gen acordă UE și statelor membre un scor de la 1 la 100. Un scor de 100 ar însemna că o țară a atins egalitatea deplină între femei și bărbați.",
+  "textNote": "Indicele egalității de gen este un instrument de măsurare a progresului egalității de gen în UE. Acesta examinează modul în care elemente precum dizabilitatea, vârsta, nivelul de educație, țara nașterii și tipul de familie se pot intersecta cu genul.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Faceți clic pentru mai multe informații"
 }

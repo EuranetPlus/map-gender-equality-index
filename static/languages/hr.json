@@ -1,13 +1,13 @@
 {
   "heading": "Koliko su žene i muškarci ravnopravni u EU?",
-  "subheading": "U 2023. godini, povećanje ukupnog rezultata EU od 1,6 bodova najveće je međugodišnje povećanje od prvog izdanja indeksa 2013. (kada je iznosio 63,1).",
+  "subheading": "Indeks rodne ravnopravnosti EU za 2025. godinu iznosi 63,4 od 100, što odražava neravnomjeran napredak među državama članicama. U proteklih pet godina, Malta (+8,6), Irska (+7,8) i Litva (+6,9) ostvarile su najznačajniji napredak, dok je EU u cjelini zabilježio porast od +3,5 bodova u indeksu. Nasuprot tome, zemlje poput Bugarske (-0,7), Hrvatske (+0,3), Latvije (+0,4) i Mađarske (+0,5) ostvarile su mali ili nikakav napredak.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "Indeks rodne ravnopravnosti",
   "textSourceDescription": "Izvor",
   "textSource": "Europski institut za ravnopravnost spolova",
   "textNoteDescription": "Bilješka",
-  "textNote": "Podaci za indeks iz 2023. uglavnom su iz 2021. i 2022. godine. Indeks rodne ravnopravnosti daje EU-u i državama članicama ocjenu od 1 do 100. Rezultat od 100 značio bi da je zemlja postigla potpunu ravnopravnost žena i muškaraca.",
+  "textNote": "Indeks rodne ravnopravnosti alat je za mjerenje napretka u rodnoj ravnopravnosti u EU. Ispituje kako se elementi poput invaliditeta, dobi, stupnja obrazovanja, zemlje rođenja i tipa obitelji mogu presijecati sa spolom.",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Kliknite za više informacija"
 }

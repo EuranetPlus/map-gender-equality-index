@@ -1,13 +1,13 @@
 {
   "heading": "Kako enakopravni so ženske in moški v EU?",
-  "subheading": "Leta 2023 je 1,6-odstotno povečanje skupne ocene EU največje medletno povečanje od prve izdaje indeksa leta 2013 (ko je znašala 63,1).",
+  "subheading": "Indeks enakosti spolov EU za leto 2025 znaša 63,4 od 100, kar odraža neenakomeren napredek med državami članicami. V zadnjih petih letih so Malta (+8,6), Irska (+7,8) in Litva (+6,9) dosegle največji napredek, medtem ko se je EU kot celota v indeksu povečala za +3,5 točke. Nasprotno pa so države, kot so Bolgarija (-0,7), Hrvaška (+0,3), Latvija (+0,4) in Madžarska (+0,5), dosegle le majhen ali ničen napredek.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "Indeks enakosti spolov",
   "textSourceDescription": "Vir",
   "textSource": "Evropski inštitut za enakost spolov",
   "textNoteDescription": "Opomba",
-  "textNote": "Podatki za indeks 2023 so večinoma iz let 2021 in 2022. Indeks enakosti spolov daje EU in državam članicam oceno od 1 do 100. Ocena 100 bi pomenila, da je država dosegla popolno enakost med ženskami in moškimi.",
+  "textNote": "Indeks enakosti spolov je orodje za merjenje napredka na področju enakosti spolov v EU. Preučuje, kako se elementi, kot so invalidnost, starost, stopnja izobrazbe, država rojstva in tip družine, prepletajo s spolom.",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Kliknite za več informacij"
 }

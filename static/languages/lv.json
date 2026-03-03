@@ -1,13 +1,13 @@
 {
   "heading": "Cik vienlīdzīgi ir vīrieši un sievietes ES?",
-  "subheading": "2023. gadā ES kopējā vērtējuma pieaugums par 1,6 punktiem ir lielākais pieaugums salīdzinājumā ar iepriekšējo gadu kopš indeksa pirmās versijas 2013. gadā (kad tas bija 63,1).",
+  "subheading": "ES dzimumu līdztiesības indekss 2025. gadam ir 63,4 no 100, kas atspoguļo nevienmērīgu progresu starp dalībvalstīm. Pēdējo piecu gadu laikā vislielāko progresu ir panākušas Malta (+8,6), Īrija (+7,8) un Lietuva (+6,9), savukārt ES kopumā indekss ir pieaudzis par +3,5 punktiem. Turpretī tādas valstis kā Bulgārija (-0,7), Horvātija (+0,3), Latvija (+0,4) un Ungārija (+0,5) ir panākušas nelielu vai nekādu progresu.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "Dzimumu līdztiesības indekss",
   "textSourceDescription": "Avots",
   "textSource": "Eiropas Dzimumu līdztiesības institūts",
   "textNoteDescription": "Piezīme",
-  "textNote": "2023. gada indeksa dati lielākoties ir no 2021. un 2022. gada. Dzimumu līdztiesības indekss piešķir ES un dalībvalstīm vērtējumu no 1 līdz 100. Vērtējums 100 nozīmētu, ka valsts ir sasniegusi pilnīgu sieviešu un vīriešu līdztiesību.",
+  "textNote": "Dzimumu līdztiesības indekss ir instruments dzimumu līdztiesības progresa mērīšanai ES. Tajā tiek pētīts, kā tādi elementi kā invaliditāte, vecums, izglītības līmenis, dzimšanas valsts un ģimenes tips var mijiedarboties ar dzimumu.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

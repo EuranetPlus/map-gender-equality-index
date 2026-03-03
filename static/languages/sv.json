@@ -1,13 +1,13 @@
 {
   "heading": "Hur jämställda är kvinnor och män i EU?",
-  "subheading": "År 2023 är ökningen med 1,6 poäng i EU:s totala poäng den största ökningen jämfört med föregående år sedan den första upplagan av indexet 2013 (då det låg på 63,1).",
+  "subheading": "EU:s jämställdhetsindex för 2025 ligger på 63,4 av 100, vilket återspeglar ojämna framsteg mellan medlemsstaterna. Under de senaste fem åren har Malta (+8,6), Irland (+7,8) och Litauen (+6,9) gjort de största framstegen, medan EU som helhet har sett en ökning med +3,5 poäng i indexet. Däremot har länder som Bulgarien (-0,7), Kroatien (+0,3), Lettland (+0,4) och Ungern (+0,5) gjort få eller inga framsteg.",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "Jämställdhetsindex",
   "textSourceDescription": "Källa",
   "textSource": "Europeiska institutet för jämställdhet",
   "textNoteDescription": "Notera",
-  "textNote": "Uppgifterna för 2023 års index är mestadels från 2021 och 2022. Jämställdhetsindexet ger EU och medlemsstaterna en poäng från 1 till 100. En poäng på 100 skulle innebära att ett land har uppnått full jämställdhet mellan kvinnor och män.",
+  "textNote": "Jämställdhetsindexet är ett verktyg för att mäta jämställdhetsutvecklingen i EU. Det undersöker hur faktorer som funktionsnedsättning, ålder, utbildningsnivå, födelseland och familjetyp kan samverka med kön.",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Klicka för mer information"
 }

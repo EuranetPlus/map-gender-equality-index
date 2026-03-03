@@ -1,13 +1,13 @@
 {
   "heading": "Kui võrdsed on naised ja mehed ELis?",
-  "subheading": "2023. aastal on ELi üldskoori 1,6-punktine tõus suurim aastane tõus alates indeksi esimesest väljaandest 2013. aastal (mil see oli 63,1).",
+  "subheading": "ELi soolise võrdõiguslikkuse indeks 2025. aastal on 63,4 punkti 100-st, mis peegeldab liikmesriikide ebaühtlast arengut. Viimase viie aasta jooksul on kõige märkimisväärsemaid edusamme teinud Malta (+8,6), Iirimaa (+7,8) ja Leedu (+6,9), samas kui EL tervikuna on indeksis tõusnud +3,5 punkti. Seevastu sellised riigid nagu Bulgaaria (-0,7), Horvaatia (+0,3), Läti (+0,4) ja Ungari (+0,5) on edusamme teinud vähe või üldse mitte.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "Soolise võrdõiguslikkuse indeks",
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Soolise Võrdõiguslikkuse Instituut",
   "textNoteDescription": "Märkus",
-  "textNote": "2023. aasta indeksi andmed pärinevad peamiselt aastatest 2021 ja 2022. Soolise võrdõiguslikkuse indeks annab ELile ja liikmesriikidele hinde skaalal 1 kuni 100. Skoor 100 tähendaks, et riik on saavutanud naiste ja meeste täieliku võrdõiguslikkuse.",
+  "textNote": "Soolise võrdõiguslikkuse indeks on vahend soolise võrdõiguslikkuse edenemise mõõtmiseks ELis. See uurib, kuidas sellised elemendid nagu puue, vanus, haridustase, sünniriik ja perekonna tüüp võivad olla seotud sooga.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

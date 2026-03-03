@@ -1,13 +1,13 @@
 {
   "heading": "Kiek lygios moterys ir vyrai yra ES?",
-  "subheading": "2023 m. 1,6 balo padidėjimas bendrame ES bale yra didžiausias metinis padidėjimas nuo pirmojo indekso leidimo 2013 m. (kai jis siekė 63,1).",
+  "subheading": "2025 m. ES lyčių lygybės indeksas siekia 63,4 iš 100, o tai rodo nevienodą pažangą tarp valstybių narių. Per pastaruosius penkerius metus didžiausią pažangą padarė Malta (+8,6), Airija (+7,8) ir Lietuva (+6,9), o visoje ES indeksas padidėjo +3,5 punkto. Tuo tarpu tokios šalys kaip Bulgarija (-0,7), Kroatija (+0,3), Latvija (+0,4) ir Vengrija (+0,5) padarė mažai arba visai nepadarė pažangos.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Lyčių lygybės indeksas",
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos lyčių lygybės institutas",
   "textNoteDescription": "Pastaba",
-  "textNote": "2023 m. indekso duomenys daugiausia yra iš 2021 ir 2022 m. Lyčių lygybės indeksas ES ir valstybėms narėms suteikia balų nuo 1 iki 100. 100 balų reikštų, kad šalis pasiekė visišką moterų ir vyrų lygybę.",
+  "textNote": "Lyčių lygybės indeksas yra priemonė lyčių lygybės pažangai ES matuoti. Jame nagrinėjama, kaip tokie elementai kaip negalia, amžius, išsilavinimo lygis, gimimo šalis ir šeimos tipas gali būti susiję su lytimi.",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

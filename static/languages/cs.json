@@ -1,13 +1,13 @@
 {
   "heading": "Jak rovnoprávní jsou si ženy a muži v EU?",
-  "subheading": "V roce 2023 je nárůst celkového skóre EU o 1,6 bodu největším meziročním nárůstem od prvního vydání indexu v roce 2013 (kdy činil 63,1).",
-  "legend1": "Nejsou k dispozici žádná data",
+  "subheading": "Index rovnosti žen a mužů v EU za rok 2025 dosahuje 63,4 ze 100, což odráží nerovnoměrný pokrok mezi členskými státy. Za posledních pět let dosáhly nejvýznamnějšího pokroku Malta (+8,6), Irsko (+7,8) a Litva (+6,9), zatímco EU jako celek zaznamenala nárůst indexu o +3,5 bodu. Naproti tomu země jako Bulharsko (-0,7), Chorvatsko (+0,3), Lotyšsko (+0,4) a Maďarsko (+0,5) dosáhly malého nebo žádného pokroku.",
+  "legend1": "Žádné údaje k dispozici",
   "tooltip1": "Index rovnosti žen a mužů",
   "textSourceDescription": "Zdroj",
   "textSource": "Evropský institut pro rovnost žen a mužů",
   "textNoteDescription": "Poznámka",
-  "textNote": "Data pro index z roku 2023 pocházejí převážně z let 2021 a 2022. Index rovnosti žen a mužů uděluje EU a členským státům skóre od 1 do 100. Skóre 100 by znamenalo, že země dosáhla plné rovnosti mezi ženami a muži.",
+  "textNote": "Index rovnosti žen a mužů je nástroj k měření pokroku v oblasti rovnosti žen a mužů v EU. Zkoumá, jak se prvky, jako je zdravotní postižení, věk, úroveň vzdělání, země narození a typ rodiny, mohou prolínat s pohlavím.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Klikněte pro více informací"
 }

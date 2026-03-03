@@ -1,13 +1,13 @@
 {
   "heading": "Mennyire egyenlőek a nők és a férfiak az EU-ban?",
-  "subheading": "2023-ban az EU összesített pontszámának 1,6 pontos növekedése a legnagyobb éves növekedés az index 2013-as első kiadása óta (amikor az index 63,1 ponton állt).",
+  "subheading": "Az EU 2025-ös nemek közötti egyenlőségre vonatkozó indexe 63,4 pontot áll a 100-ból, ami a tagállamok közötti egyenetlen fejlődést tükrözi. Az elmúlt öt évben Málta (+8,6), Írország (+7,8) és Litvánia (+6,9) érte el a legjelentősebb előrelépést, míg az EU egészében +3,5 ponttal nőtt az index. Ezzel szemben olyan országok, mint Bulgária (-0,7), Horvátország (+0,3), Lettország (+0,4) és Magyarország (+0,5), csekély vagy semmilyen előrelépést nem tettek.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "Nemek közötti egyenlőség indexe",
   "textSourceDescription": "Forrás",
   "textSource": "Európai Nemek Közötti Egyenlőségi Intézet",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A 2023-as index adatai többnyire 2021-ből és 2022-ből származnak. A nemek közötti egyenlőség indexe 1-től 100-ig terjedő skálán értékeli az EU-t és a tagállamokat. A 100-as pontszám azt jelentené, hogy egy ország elérte a nők és férfiak közötti teljes egyenlőséget.",
+  "textNote": "A nemek közötti egyenlőség mutatója egy eszköz a nemek közötti egyenlőség előrehaladásának mérésére az EU-ban. Azt vizsgálja, hogy az olyan elemek, mint a fogyatékosság, az életkor, az iskolai végzettség, a születési ország és a családtípus, hogyan kapcsolódnak a nemekhez.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Kattintson a további információkért"
 }
