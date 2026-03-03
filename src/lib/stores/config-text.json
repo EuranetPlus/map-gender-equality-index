@@ -1,13 +1,13 @@
 {
   "heading": "How equal are women and men in the EU?",
-  "subheading": "In 2023, the 1.6-point increase in the EU's overall score is the biggest year-on-year increase since the first edition of the index in 2013 (when it stood at 63.1).",
+  "subheading": "The EU Gender Equality Index for 2025 stands at 63.4 out of 100, reflecting uneven progress among member states. Over the past five years, Malta (+8.6), Ireland (+7.8) and Lithuania (+6.9) have made the most significant progress, while the EU as a whole has seen an increase of +3.5 points in the index. In contrast, countries such as Bulgaria (-0.7), Croatia (+0.3), Latvia (+0.4) and Hungary (+0.5) have made little or no progress.",
   "legend1": "No data available",
   "tooltip1": "Gender Equality Index",
   "textSourceDescription": "Source",
   "textSource": "European Institute for Gender Equality",
   "textNoteDescription": "Note",
-  "textNote": "The data for 2023 Index is mostly from 2021 and 2022.The Gender Equality Index gives the EU and the Member States a score from 1 to 100. A score of 100 would mean that a country had reached full equality between women and men.",
+  "textNote": "The Gender Equality Index is a tool to measure the progress of gender equality in the EU. It examines how elements such as disability, age, level of education, country of birth and family type can intersect with gender.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2023",
+  "linkDataAccess": "https://eige.europa.eu/gender-equality-index/2025",
   "textCountryClick": "Click for more info"
 }
