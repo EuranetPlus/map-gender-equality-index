@@ -94,16 +94,16 @@
 	}
 
 	$: if (config.colourScheme == 'blue') {
-		colorScheme = schemeBlues[5];
+		colorScheme = schemeBlues[7];
 	} else if (config.colourScheme == 'purple-blue') {
-		colorScheme = schemePurples[5];
+		colorScheme = schemePurples[7];
 		//colorScheme = PuBlueDarker;
 	} else if (config.colourScheme == 'green-blue') {
-		colorScheme = schemeGnBu[5];
+		colorScheme = schemeGnBu[7];
 	} else if (config.colourScheme == 'orange-red') {
 		colorScheme = schemeOrRd[7];
 	} else if (config.colourScheme == 'yellow-green') {
-		colorScheme = schemeYlGn[5];
+		colorScheme = schemeYlGn[7];
 	}
 
 	$: if ($dataReady) {
