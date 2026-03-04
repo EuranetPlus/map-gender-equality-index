@@ -147,8 +147,8 @@
 				if (config.datasetType == 'values') {
 					colorScale.domain(extent(extentArray)).range(colorScheme);
 					clusters = colorScale.quantiles();
-					scaleMin = 0 //min(extentArray);
-					scaleMax = 100 //max(extentArray);
+					scaleMin = min(extentArray); //0
+					scaleMax = max(extentArray);//100
 				} else {
 					clusters = [];
 				}
