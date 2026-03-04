@@ -101,7 +101,7 @@
 	} else if (config.colourScheme == 'green-blue') {
 		colorScheme = schemeGnBu[5];
 	} else if (config.colourScheme == 'orange-red') {
-		colorScheme = schemeOrRd[5];
+		colorScheme = schemeOrRd[7];
 	} else if (config.colourScheme == 'yellow-green') {
 		colorScheme = schemeYlGn[5];
 	}
