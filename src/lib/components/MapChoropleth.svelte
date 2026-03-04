@@ -150,7 +150,7 @@
 
 				if (config.datasetType == 'values') {
 					// ✅ immer bei 0 starten
-					scaleMin = 0;
+					scaleMin = min(extentArray);
 					scaleMax = max(extentArray);
 
 					// ✅ Quantize: domain [0, max], range = 7 Farben
