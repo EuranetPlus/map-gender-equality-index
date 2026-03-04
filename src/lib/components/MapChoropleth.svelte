@@ -15,10 +15,10 @@
 	import { isMobile } from '$lib/stores/shared';
 
 	import { csv } from 'd3-fetch';
-	import { extent } from 'd3-array';
 	import { min, max } from 'd3-array';
 
-	import { scaleQuantile, scaleSequential, scaleSequentialQuantile } from 'd3-scale';
+	// ✅ Quantize statt Quantile
+	import { scaleQuantize, scaleSequential, scaleSequentialQuantile } from 'd3-scale';
 	import { schemeBlues, schemePurples, schemeGnBu, schemeOrRd, schemeYlGn } from 'd3-scale-chromatic';
 	import { PuBlueDarker } from '$lib/utils/customColorPalettes';
 
@@ -56,7 +56,6 @@
 	$: if ($selectedCountry) {
 		selectedCountryExtraInfoTextTranslated = extraInfoTexts[$selectedCountry.properties.id];
 		selectedCountryExtraInfoLinkTranslated = extraInfoLinks[$selectedCountry.properties.id];
-		// console.log(selectedCountryExtraInfoTextTranslated);
 	} else {
 		selectedCountryExtraInfoTextTranslated = undefined;
 		selectedCountryExtraInfoLinkTranslated = undefined;
@@ -81,12 +80,17 @@
 
 	const projection = geoIdentity().reflectY(true);
 	const path = geoPath().projection(projection);
-	let colorScale = scaleQuantile();
+
+	// ✅ Quantize-Scale
+	let colorScale = scaleQuantize();
 	let colorScheme;
 	let clusters;
 
+	// ✅ Anzahl Kacheln zentral steuerbar
+	const NUM_TILES = 7;
+
 	$: if (config.datasetType == 'values') {
-		colorScale = scaleQuantile();
+		colorScale = scaleQuantize();
 	} else if (config.datasetType == 'binary') {
 		colorScale = function (value) {
 			return value == 1 ? '#2B3163' : '#F4F4F4';
@@ -94,20 +98,19 @@
 	}
 
 	$: if (config.colourScheme == 'blue') {
-		colorScheme = schemeBlues[7];
+		colorScheme = schemeBlues[NUM_TILES];
 	} else if (config.colourScheme == 'purple-blue') {
-		colorScheme = schemePurples[7];
-		//colorScheme = PuBlueDarker;
+		colorScheme = schemePurples[NUM_TILES];
+		// colorScheme = PuBlueDarker; // falls genutzt: muss 7 Farben enthalten
 	} else if (config.colourScheme == 'green-blue') {
-		colorScheme = schemeGnBu[7];
+		colorScheme = schemeGnBu[NUM_TILES];
 	} else if (config.colourScheme == 'orange-red') {
-		colorScheme = schemeOrRd[7];
+		colorScheme = schemeOrRd[NUM_TILES];
 	} else if (config.colourScheme == 'yellow-green') {
-		colorScheme = schemeYlGn[7];
+		colorScheme = schemeYlGn[NUM_TILES];
 	}
 
 	$: if ($dataReady) {
-		// console.log('Country data for map loaded');
 		projection.fitExtent(
 			[
 				[paddingMap, paddingMap],
@@ -129,7 +132,7 @@
 	async function fetchCSV() {
 		const res = await csv('/data/thematic/data.csv')
 			.then(function (data) {
-				// Parse numbers as integers
+				// Parse numbers
 				data.forEach(function (d) {
 					if (d.value !== 'null') {
 						d['value'] = +d['value'];
@@ -138,17 +141,25 @@
 					}
 				});
 
-				let extentArray = data.map((item) => {
-					return item.value;
-				});
+				// ✅ nur numerische Werte (sonst min/max kaputt)
+				const extentArray = data
+					.map((item) => item.value)
+					.filter((v) => v !== null && v !== undefined && Number.isFinite(v));
+
 				csvData.set(data);
 
-				// Set color scale domain and range
 				if (config.datasetType == 'values') {
-					colorScale.domain(extent(extentArray)).range(colorScheme);
-					clusters = colorScale.quantiles();
-					scaleMin = min(extentArray); //0
-					scaleMax = max(extentArray);//100
+					// ✅ immer bei 0 starten
+					scaleMin = 0;
+					scaleMax = max(extentArray);
+
+					// ✅ Quantize: domain [0, max], range = 7 Farben
+					colorScale.domain([scaleMin, scaleMax]).range(colorScheme);
+
+					// ✅ Schwellen (clusters) für Scale-Bar: bei N Farben => N-1 Schwellen
+					const n = colorScheme.length;
+					const step = (scaleMax - scaleMin) / n;
+					clusters = Array.from({ length: n - 1 }, (_, i) => scaleMin + step * (i + 1));
 				} else {
 					clusters = [];
 				}
@@ -158,7 +169,6 @@
 
 	function mergeData() {
 		// Transform csv structure to object style to be better usable
-
 		let csvTransformed = $csvData.reduce(
 			(obj, item) =>
 				Object.assign(obj, {
@@ -179,11 +189,8 @@
 			{}
 		);
 
-		// console.log(csvTransformed);
-
 		// Add values from csv
 		countriesAll.features.map((item) => {
-			// Add attributes only for countries included in CSV
 			if (Object.keys(csvTransformed).includes(item.properties.id)) {
 				item.csvImport = csvTransformed[item.properties.id];
 			}
@@ -215,9 +222,7 @@
 		let csvData = feature.csvImport;
 
 		if (csvData) {
-			// No data, because country not in Europe: => value: undefined
 			if (csvData.value !== undefined) {
-				// No data because not available for this country => value: null
 				if (csvData.value !== null) {
 					return colorScale(csvData.value);
 				} else {
@@ -233,9 +238,7 @@
 		let csvData = feature.csvImport;
 
 		if (csvData) {
-			// No data, because country not in Europe: => value: undefined
 			if (csvData.value !== undefined) {
-				// No data because not available for this country => value:
 				if (csvData.value !== null) {
 					if (csvData.extraInfo) {
 						// return 'orange';
@@ -269,10 +272,8 @@
 
 		let mouseX = e.pageX - divOffset.left;
 		let mouseY = e.pageY - divOffset.top;
-		// console.log(mouseX);
 
 		if (hoveredCountry) {
-			// console.log(hoveredCountry);
 			MOUSE.set({
 				x: mouseX,
 				y: mouseY,
@@ -285,7 +286,6 @@
 			});
 		}
 
-		// Calculate the position of the map div in the page to get mouse position
 		function offset(el) {
 			let rect = el.getBoundingClientRect(),
 				scrollLeft = window.pageXOffset || document.documentElement.scrollLeft,
@@ -300,7 +300,6 @@
 				return c.id == country.properties.id;
 			})[0].na;
 
-			// set hoveredCountry only if csvImport object is present in data
 			if (country.csvImport) {
 				tooltipVisible = true;
 
@@ -311,7 +310,6 @@
 				};
 			} else {
 				tooltipVisible = false;
-
 				hoveredCountry = {};
 			}
 		}
@@ -328,7 +326,6 @@
 			$countryInfoVisible = true;
 			$selectedCountry = country;
 
-			// on mobile close tooltip when clicked on country with extra info
 			if ($isMobile) {
 				tooltipVisible = false;
 			}
@@ -372,7 +369,7 @@
 				/>
 			{/each}
 
-			<!-- countriesWithExtraInfo added for the  -->
+			<!-- countriesWithExtraInfo -->
 			{#each countriesWithExtraInfo.features as feature, index}
 				<path
 					d={path(feature)}
@@ -397,8 +394,6 @@
 			{tooltip}
 		/>
 
-		<!-- only show tooltip for countries with no extraInfo -->
-		<!-- {#if $MOUSE.tooltip.extraInfo == false} -->
 		<div
 			class="tooltip text-sm p-3 {tooltipVisible ? 'active' : ''}"
 			style="top: {$MOUSE.y - tooltipHeight}px; left:{tooltipPositionX}px;"
@@ -428,8 +423,6 @@
 				{/each}
 			</div>
 		</div>
-
-		<!-- {/if} -->
 	</div>
 {/if}
 
@@ -450,7 +443,6 @@
 	}
 
 	.country-extra-info-values {
-		/* stroke-width: 1px; */
 		stroke: black;
 	}
 
