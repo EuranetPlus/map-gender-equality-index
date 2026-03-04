@@ -87,7 +87,7 @@
 	let clusters;
 
 	// ✅ Anzahl Kacheln zentral steuerbar
-	const NUM_TILES = 7;
+	const NUM_TILES = 9;
 
 	$: if (config.datasetType == 'values') {
 		colorScale = scaleQuantize();
